@@ -10,3 +10,4 @@ Lomu sadalījums;
 Mūsdienīgs dizains;
 
 Backend PHP, nodrošinot stabilu servera puses apstrādi, savukārt Frontend ir veidots, izmantojot Java/JavaScript, lai nodrošinātu dinamisku, atsaucīgu lietotāja pieredzi.
+Un citas programmas citām funkcijām.
