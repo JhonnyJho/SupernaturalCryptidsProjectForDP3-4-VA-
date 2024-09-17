@@ -1,5 +1,5 @@
 # SupernaturalCryptidsProjectForDP3-4-VA-
-Cryptic Chronicles — centrs neizskaidrojamā atklāšanai, izpētei un izzināšanai. Neatkarīgi no tā, vai esat pieredzējis pētnieks vai vienkārši interesēties par pārdabisko, mūsu vietne piedāvā plašu informāciju, tikšanās un 3D simulācija par kriptīdiem, paranormālām parādībām un citu pasaules noslēpumiem. Un ta talak.
+Zoo CHhronikals - atklājumu, pētījumu un dzīvnieku mācīšanās centrs. Neatkarīgi no tā, vai esat pieredzējis pētnieks vai vienkārši interesē dzīvnieku aprūpe, mūsu vietne piedāvā plašu informāciju, tikšanās un 3D simulācijas par dzīvniekiem un dzīvnieku pasaules noslēpumiem. Un ta talak
 Papildus detalizētiem ziņojumiem par kriptīdiem, paranormālām parādībām Cryptic Chronicles piedāvā uzlabotas funkcijas, tostarp:
 
 Visaptveroša datu bāze;
